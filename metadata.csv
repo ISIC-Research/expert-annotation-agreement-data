@@ -1,0 +1,249 @@
+_id,ISIC_id,exemplar,group,benign_malignant,diagnosis
+5bf31fd31165972a676ac44a,ISIC_0046222,Pattern : Starburst,1,benign,nevus
+5bf31fd31165972a676ac463,ISIC_0046224,Lines : Branched streaks,1,malignant,melanoma
+5bf31fd71165972a676ac533,ISIC_0046240,Vessels : Linear irregular,1,benign,nevus
+5bf31fe41165972a676ac80c,ISIC_0046294,Network : Delicate Pigment Network / Reticulation,1,benign,nevus
+5bf31fec1165972a676ac91b,ISIC_0046316,Structureless : Blotch regular,1,benign,nevus
+5bf31ffa1165972a676aca41,ISIC_0046338,Network : Negative pigment network,1,malignant,melanoma
+5bf320041165972a676acb78,ISIC_0046355,Globules / Clods : Cobblestone pattern,1,benign,nevus
+5bf320141165972a676acce5,ISIC_0046383,Regression structures : Peppering / Granularity,1,malignant,melanoma
+5bf320261165972a676ace90,ISIC_0046416,Regression structures : Scarlike depigmentation,1,malignant,melanoma
+5bf3202d1165972a676acf23,ISIC_0046428,Globules / Clods : Regular,1,benign,nevus
+5bf3202d1165972a676acf2e,ISIC_0046429,Pattern : Homogeneous : NOS,1,benign,nevus
+5bf320311165972a676acf97,ISIC_0046438,Regression structures : Scarlike depigmentation,1,malignant,melanoma
+5bf3203d1165972a676ad22e,ISIC_0046493,Lines : Radial streaming,1,benign,nevus
+5bf320441165972a676ad3d5,ISIC_0046529,Globules / Clods : Regular,1,malignant,melanoma
+5bf320491165972a676ad491,ISIC_0046546,Pattern : Homogeneous : NOS,1,benign,nevus
+5bf320501165972a676ad645,ISIC_0046582,Vessels : Dotted,1,benign,nevus
+5bf320551165972a676ad6ee,ISIC_0046597,Structureless : Structureless brown (tan),1,malignant,melanoma
+5bf320571165972a676ad77d,ISIC_0046609,Shiny white structures : Shiny white streaks,1,malignant,melanoma
+5bf320571165972a676ad7ad,ISIC_0046613,Network : Typical pigment network / Reticulation,1,benign,nevus
+5bf320581165972a676ad7c3,ISIC_0046615,Lines : Pseudopods,1,benign,nevus
+5bf320591165972a676ad81e,ISIC_0046623,Structureless : Blotch irregular,1,malignant,melanoma
+5bf3205b1165972a676ad87a,ISIC_0046631,Lines : Radial streaming,1,benign,nevus
+5bf3205b1165972a676ad891,ISIC_0046633,Globules / Clods : Irregular,1,malignant,melanoma
+5bf3205b1165972a676ad8aa,ISIC_0046635,Pattern : Starburst,1,benign,nevus
+5bf3205d1165972a676ad8f6,ISIC_0046641,Shiny white structures : Shiny white streaks,1,malignant,melanoma
+5bf3205d1165972a676ad928,ISIC_0046645,Globules / Clods : Irregular,1,malignant,melanoma
+5bf320601165972a676ad9d5,ISIC_0046659,Dots : Irregular,1,malignant,melanoma
+5bf320621165972a676ad9f8,ISIC_0046661,Vessels : Corkscrew,1,malignant,melanoma
+5bf320621165972a676ada19,ISIC_0046664,Globules / Clods : Milky red,1,malignant,melanoma
+5bf320641165972a676ada6a,ISIC_0046671,Vessels : Polymorphous,1,malignant,melanoma
+5bf320651165972a676ada8b,ISIC_0046674,Lines : Branched streaks,1,benign,nevus
+5bf320671165972a676adaee,ISIC_0046683,Network : Negative pigment network,1,malignant,melanoma
+5bf3206d1165972a676adbb0,ISIC_0046700,Vessels : Comma,1,benign,nevus
+5bf3207e1165972a676adda7,ISIC_0046745,Network : Typical pigment network / Reticulation,1,benign,nevus
+5bf320901165972a676ae135,ISIC_0046820,Dots : Irregular,1,malignant,melanoma
+5bf320931165972a676ae199,ISIC_0046827,Structureless : Milky red areas,1,malignant,melanoma
+5bf320961165972a676ae1f3,ISIC_0046834,Vessels : Corkscrew,1,malignant,melanoma
+5bf3209c1165972a676ae2c2,ISIC_0046851,Globules / Clods : Rim of brown globules,1,benign,nevus
+5bf3209c1165972a676ae2ce,ISIC_0046852,Globules / Clods : Rim of brown globules,1,benign,nevus
+5bf320af1165972a676ae48d,ISIC_0046884,Structureless : Blue-whitish veil,1,malignant,melanoma
+5bf320af1165972a676ae4a6,ISIC_0046886,Globules / Clods : Milky red,1,malignant,melanoma
+5bf320b81165972a676ae54f,ISIC_0046898,Network : Broadened pigment network / Reticulation,1,benign,nevus
+5bf320c61165972a676ae70d,ISIC_0046932,Lines : Pseudopods,1,malignant,melanoma
+5bf320c91165972a676ae74d,ISIC_0046937,Network : Delicate Pigment Network / Reticulation,1,benign,nevus
+5bf320d51165972a676ae865,ISIC_0046958,Structureless : Structureless brown (tan),1,malignant,melanoma
+5bf320e11165972a676ae92d,ISIC_0046971,Structureless : Blotch regular,1,benign,nevus
+5bf320ec1165972a676aeaa7,ISIC_0047002,Vessels : Polymorphous,1,benign,nevus
+5bf320f41165972a676aeb96,ISIC_0047022,Structureless : Blue-whitish veil,1,malignant,melanoma
+5bf320f61165972a676aec04,ISIC_0047031,Structureless : Blotch irregular,1,malignant,melanoma
+5bf320f61165972a676aec13,ISIC_0047032,Vessels : Comma,1,benign,nevus
+589de95dd831136be37e0d4f,ISIC_0016081,Network : Broadened pigment network / Reticulation,1,malignant,melanoma
+58b0a360d831137d0a388356,ISIC_0016092,Structureless : Milky red areas,1,malignant,melanoma
+58b0a372d831137d0a3884a1,ISIC_0016127,Vessels : Dotted,1,malignant,melanoma
+58b0a374d831137d0a3884c5,ISIC_0016131,Vessels : Linear irregular,1,malignant,melanoma
+58b0a377d831137d0a388507,ISIC_0016137,Network : Atypical pigment network / Reticulation,1,malignant,melanoma
+58b0a37dd831137d0a388597,ISIC_0016153,Lines : Angulated lines / Polygons / Zig-zag pattern,1,malignant,melanoma
+58b0a380d831137d0a3885cd,ISIC_0016159,Globules / Clods : Cobblestone pattern,1,benign,nevus
+59e509ddd831136981ee66ae,ISIC_0021113,Dots : Regular,1,benign,nevus
+59e50a0dd831136981ee6cb4,ISIC_0021271,Regression structures : Peppering / Granularity,1,malignant,melanoma
+59e50a98d831136981ee7d6a,ISIC_0021713,Lines : Angulated lines / Polygons / Zig-zag pattern,1,malignant,melanoma
+59e50c82d831136981eeb733,ISIC_0023234,Dots : Regular,1,benign,nevus
+59e50c8cd831136981eeb7ed,ISIC_0023252,Network : Atypical pigment network / Reticulation,1,benign,nevus
+5bf31fe61165972a676ac871,ISIC_0046302,Structureless : Milky red areas,2,benign,melanoma metastasis
+5bf31fef1165972a676ac969,ISIC_0046322,Network : Negative pigment network,2,malignant,melanoma
+5bf31ff91165972a676aca24,ISIC_0046336,Vessels : Linear irregular,2,malignant,melanoma
+5bf31ffd1165972a676aca96,ISIC_0046343,Vessels : Polymorphous,2,malignant,melanoma
+5bf320081165972a676acbd4,ISIC_0046361,Regression structures : Peppering / Granularity,2,malignant,melanoma
+5bf3200f1165972a676acc55,ISIC_0046372,Dots : Irregular,2,malignant,melanoma
+5bf320151165972a676accfd,ISIC_0046385,Network : Delicate Pigment Network / Reticulation,2,benign,nevus
+5bf3201c1165972a676acd92,ISIC_0046397,Structureless : Blotch regular,2,benign,nevus
+5bf3202a1165972a676acee1,ISIC_0046422,Lines : Angulated lines / Polygons / Zig-zag pattern,2,malignant,melanoma
+5bf320321165972a676acfc7,ISIC_0046441,Vessels : Dotted,2,malignant,melanoma
+5bf320341165972a676ad02b,ISIC_0046449,Structureless : Blue-whitish veil,2,malignant,melanoma
+5bf3203e1165972a676ad2af,ISIC_0046504,Lines : Angulated lines / Polygons / Zig-zag pattern,2,malignant,melanoma
+5bf3204b1165972a676ad514,ISIC_0046557,Regression structures : Peppering / Granularity,2,benign,nevus
+5bf3204c1165972a676ad539,ISIC_0046560,Network : Atypical pigment network / Reticulation,2,malignant,melanoma
+5bf320541165972a676ad6e3,ISIC_0046596,Network : Negative pigment network,2,malignant,melanoma
+5bf320571165972a676ad75c,ISIC_0046606,Pattern : Homogeneous : NOS,2,benign,nevus
+5bf320581165972a676ad7d9,ISIC_0046617,Globules / Clods : Rim of brown globules,2,benign,nevus
+5bf320581165972a676ad7e4,ISIC_0046618,Network : Broadened pigment network / Reticulation,2,malignant,melanoma
+5bf3205a1165972a676ad83f,ISIC_0046626,Vessels : Corkscrew,2,malignant,melanoma
+5bf3205a1165972a676ad860,ISIC_0046629,Globules / Clods : Cobblestone pattern,2,benign,nevus
+5bf3205c1165972a676ad8e8,ISIC_0046640,Regression structures : Scarlike depigmentation,2,malignant,melanoma
+5bf320621165972a676ada24,ISIC_0046665,Vessels : Dotted,2,benign,nevus
+5bf320621165972a676ada2f,ISIC_0046666,Vessels : Comma,2,benign,nevus
+5bf320671165972a676adae3,ISIC_0046682,Vessels : Polymorphous,2,malignant,melanoma
+5bf320681165972a676adaf9,ISIC_0046684,Structureless : Structureless brown (tan),2,benign,nevus
+5bf3206c1165972a676adb5f,ISIC_0046693,Lines : Branched streaks,2,benign,nevus
+5bf320761165972a676adcc0,ISIC_0046724,Lines : Pseudopods,2,benign,nevus
+5bf320761165972a676adccb,ISIC_0046725,Shiny white structures : Shiny white streaks,2,malignant,melanoma
+5bf320791165972a676add18,ISIC_0046732,Globules / Clods : Rim of brown globules,2,benign,nevus
+5bf3207d1165972a676add70,ISIC_0046740,Pattern : Starburst,2,benign,nevus
+5bf320871165972a676adfa1,ISIC_0046786,Globules / Clods : Regular,2,benign,nevus
+5bf3208b1165972a676ae02b,ISIC_0046798,Vessels : Comma,2,benign,nevus
+5bf320a01165972a676ae35e,ISIC_0046862,Lines : Branched streaks,2,benign,nevus
+5bf320a11165972a676ae37c,ISIC_0046864,Pattern : Starburst,2,benign,nevus
+5bf320a41165972a676ae3ca,ISIC_0046870,Structureless : Blotch irregular,2,malignant,melanoma
+5bf320ab1165972a676ae446,ISIC_0046880,Network : Typical pigment network / Reticulation,2,benign,nevus
+5bf320ba1165972a676ae59d,ISIC_0046903,Globules / Clods : Regular,2,benign,nevus
+5bf320bd1165972a676ae5e7,ISIC_0046908,Shiny white structures : Shiny white streaks,2,malignant,melanoma
+5bf320c11165972a676ae668,ISIC_0046918,Globules / Clods : Irregular,2,benign,nevus
+5bf320cf1165972a676ae7ee,ISIC_0046949,Globules / Clods : Cobblestone pattern,2,benign,nevus
+5bf320d01165972a676ae80c,ISIC_0046951,Dots : Regular,2,benign,nevus
+5bf320dc1165972a676ae8d0,ISIC_0046965,Network : Broadened pigment network / Reticulation,2,benign,nevus
+5bf320de1165972a676ae8f5,ISIC_0046967,Lines : Pseudopods,2,benign,nevus
+5bf320df1165972a676ae913,ISIC_0046969,Structureless : Blotch regular,2,benign,nevus
+5bf320e61165972a676ae997,ISIC_0046980,Network : Delicate Pigment Network / Reticulation,2,benign,nevus
+5bf320ed1165972a676aeac5,ISIC_0047004,Lines : Radial streaming,2,malignant,melanoma
+5bf320ee1165972a676aeaf1,ISIC_0047008,Vessels : Linear irregular,2,malignant,melanoma
+5bf320f21165972a676aeb4d,ISIC_0047016,Lines : Radial streaming,2,benign,nevus
+5bf320f71165972a676aec22,ISIC_0047033,Globules / Clods : Milky red,2,malignant,melanoma
+589de95dd831136be37e0d42,ISIC_0016080,Structureless : Blue-whitish veil,2,malignant,melanoma
+589de95ed831136be37e0d58,ISIC_0016082,Vessels : Corkscrew,2,malignant,melanoma
+589de95ed831136be37e0d6a,ISIC_0016084,Globules / Clods : Irregular,2,malignant,melanoma
+58b0a364d831137d0a3883b6,ISIC_0016101,Globules / Clods : Milky red,2,indeterminate,AIMP
+58b0a365d831137d0a3883c9,ISIC_0016103,Network : Atypical pigment network / Reticulation,2,benign,nevus
+58b0a366d831137d0a3883db,ISIC_0016105,Pattern : Homogeneous : NOS,2,benign,nevus
+58b0a36bd831137d0a38842c,ISIC_0016114,Dots : Irregular,2,malignant,melanoma
+58b0a371d831137d0a38848f,ISIC_0016125,Dots : Regular,2,benign,nevus
+58b0a379d831137d0a38854f,ISIC_0016145,Structureless : Structureless brown (tan),2,malignant,melanoma
+5915aa64d83113352ace7a1d,ISIC_0016165,Network : Typical pigment network / Reticulation,2,benign,nevus
+5915aa76d83113352ace7a98,ISIC_0016175,Regression structures : Scarlike depigmentation,2,malignant,melanoma
+59e50ad4d831136981ee8496,ISIC_0021901,Structureless : Milky red areas,2,malignant,melanoma
+59e50bcbd831136981eea176,ISIC_0022661,Structureless : Blotch irregular,2,malignant,melanoma
+5bf31fd31165972a676ac455,ISIC_0046223,Pattern : Starburst,3,benign,nevus
+5bf31fd31165972a676ac46f,ISIC_0046225,Lines : Branched streaks,3,malignant,melanoma
+5bf31fd71165972a676ac54d,ISIC_0046242,Regression structures : Scarlike depigmentation,3,malignant,melanoma
+5bf31fe71165972a676ac896,ISIC_0046305,Pattern : Homogeneous : NOS,3,malignant,melanoma
+5bf31ff01165972a676ac982,ISIC_0046324,Network : Typical pigment network / Reticulation,3,benign,nevus
+5bf31ff51165972a676ac9de,ISIC_0046331,Shiny white structures : Shiny white streaks,3,malignant,melanoma
+5bf31ff51165972a676ac9e9,ISIC_0046332,Network : Broadened pigment network / Reticulation,3,benign,nevus
+5bf31ff71165972a676aca16,ISIC_0046335,Dots : Regular,3,benign,nevus
+5bf31ffb1165972a676aca61,ISIC_0046340,Vessels : Corkscrew,3,malignant,melanoma metastasis
+5bf31ffe1165972a676acaab,ISIC_0046344,Globules / Clods : Irregular,3,malignant,melanoma
+5bf31ffe1165972a676acabe,ISIC_0046345,Vessels : Linear irregular,3,malignant,melanoma
+5bf320061165972a676acbac,ISIC_0046358,Dots : Regular,3,benign,nevus
+5bf320231165972a676ace30,ISIC_0046409,Lines : Branched streaks,3,benign,nevus
+5bf3202c1165972a676acf18,ISIC_0046427,Network : Atypical pigment network / Reticulation,3,malignant,melanoma
+5bf320321165972a676acfdd,ISIC_0046443,Network : Negative pigment network,3,malignant,melanoma
+5bf320341165972a676ad036,ISIC_0046450,Structureless : Blue-whitish veil,3,malignant,melanoma
+5bf320351165972a676ad067,ISIC_0046454,Globules / Clods : Rim of brown globules,3,benign,nevus
+5bf320391165972a676ad12d,ISIC_0046471,Structureless : Structureless brown (tan),3,malignant,melanoma
+5bf3203d1165972a676ad244,ISIC_0046495,Structureless : Blotch irregular,3,malignant,melanoma
+5bf320491165972a676ad4a9,ISIC_0046548,Dots : Irregular,3,malignant,melanoma
+5bf320571165972a676ad772,ISIC_0046608,Structureless : Blotch regular,3,benign,nevus
+5bf320571165972a676ad79e,ISIC_0046612,Globules / Clods : Regular,3,benign,nevus
+5bf3205a1165972a676ad855,ISIC_0046628,Globules / Clods : Cobblestone pattern,3,malignant,melanoma
+5bf3205c1165972a676ad8dd,ISIC_0046639,Regression structures : Peppering / Granularity,3,malignant,melanoma
+5bf3205d1165972a676ad902,ISIC_0046642,Globules / Clods : Rim of brown globules,3,benign,nevus
+5bf3205e1165972a676ad941,ISIC_0046647,Dots : Irregular,3,malignant,melanoma
+5bf320631165972a676ada3c,ISIC_0046667,Structureless : Milky red areas,3,malignant,melanoma
+5bf320631165972a676ada54,ISIC_0046669,Regression structures : Peppering / Granularity,3,malignant,melanoma
+5bf320631165972a676ada5f,ISIC_0046670,Vessels : Dotted,3,malignant,melanoma
+5bf3206e1165972a676adbf6,ISIC_0046706,Structureless : Milky red areas,3,malignant,melanoma
+5bf3207d1165972a676add7b,ISIC_0046741,Structureless : Structureless brown (tan),3,malignant,melanoma
+5bf320871165972a676adf85,ISIC_0046784,Structureless : Blotch regular,3,benign,nevus
+5bf320881165972a676adfc8,ISIC_0046789,Vessels : Polymorphous,3,malignant,melanoma
+5bf3208e1165972a676ae0bd,ISIC_0046811,Network : Delicate Pigment Network / Reticulation,3,benign,nevus
+5bf3208e1165972a676ae0cb,ISIC_0046812,Vessels : Comma,3,benign,nevus
+5bf320921165972a676ae162,ISIC_0046823,Vessels : Comma,3,benign,nevus
+5bf320931165972a676ae1a5,ISIC_0046828,Lines : Angulated lines / Polygons / Zig-zag pattern,3,malignant,melanoma
+5bf3209b1165972a676ae29c,ISIC_0046848,Network : Typical pigment network / Reticulation,3,benign,nevus
+5bf320a01165972a676ae351,ISIC_0046861,Lines : Pseudopods,3,malignant,melanoma
+5bf320a21165972a676ae38e,ISIC_0046865,Pattern : Starburst,3,benign,nevus
+5bf320aa1165972a676ae433,ISIC_0046879,Regression structures : Scarlike depigmentation,3,malignant,melanoma
+5bf320b11165972a676ae4e9,ISIC_0046891,Vessels : Dotted,3,malignant,melanoma
+5bf320b81165972a676ae56d,ISIC_0046900,Network : Negative pigment network,3,malignant,melanoma
+5bf320c11165972a676ae659,ISIC_0046917,Globules / Clods : Irregular,3,malignant,melanoma
+5bf320c31165972a676ae691,ISIC_0046921,Lines : Radial streaming,3,malignant,melanoma
+5bf320dd1165972a676ae8e3,ISIC_0046966,Pattern : Homogeneous : NOS,3,benign,nevus
+5bf320e41165972a676ae973,ISIC_0046977,Network : Delicate Pigment Network / Reticulation,3,benign,nevus
+5bf320e71165972a676ae9c0,ISIC_0046983,Vessels : Linear irregular,3,malignant,melanoma
+5bf320e81165972a676ae9d6,ISIC_0046985,Lines : Radial streaming,3,malignant,melanoma
+5bf320f21165972a676aeb66,ISIC_0047018,Vessels : Polymorphous,3,malignant,melanoma
+5bf320f31165972a676aeb71,ISIC_0047019,Globules / Clods : Regular,3,benign,nevus
+5bf320f41165972a676aeba4,ISIC_0047023,Lines : Pseudopods,3,benign,nevus
+589de95fd831136be37e0d73,ISIC_0016085,Structureless : Blotch irregular,3,malignant,melanoma
+58b0a382d831137d0a3885e8,ISIC_0016162,Globules / Clods : Milky red,3,malignant,melanoma
+5915aa6dd83113352ace7a4b,ISIC_0016168,Shiny white structures : Shiny white streaks,3,malignant,melanoma
+59e509d7d831136981ee65e5,ISIC_0021092,Network : Broadened pigment network / Reticulation,3,benign,nevus
+59e509fdd831136981ee6ad3,ISIC_0021221,Globules / Clods : Cobblestone pattern,3,benign,nevus
+59e50a44d831136981ee732f,ISIC_0021442,Lines : Angulated lines / Polygons / Zig-zag pattern,3,malignant,melanoma
+59e50a7cd831136981ee79c5,ISIC_0021616,Network : Atypical pigment network / Reticulation,3,benign,nevus
+59e50b5fd831136981ee94cb,ISIC_0022328,Structureless : Blue-whitish veil,3,malignant,melanoma
+59e50c6cd831136981eeb480,ISIC_0023162,Vessels : Corkscrew,3,malignant,melanoma metastasis
+59e50d52d831136981eec9d9,ISIC_0023713,Globules / Clods : Milky red,3,benign,nevus
+5bf31fdc1165972a676ac64f,ISIC_0046261,Pattern : Starburst,4,benign,nevus
+5bf31fec1165972a676ac910,ISIC_0046315,Network : Atypical pigment network / Reticulation,4,malignant,melanoma
+5bf31fed1165972a676ac92e,ISIC_0046317,Vessels : Dotted,4,benign,nevus
+5bf31ff01165972a676ac977,ISIC_0046323,Network : Negative pigment network,4,malignant,melanoma
+5bf31ff61165972a676aca07,ISIC_0046334,Shiny white structures : Shiny white streaks,4,benign,nevus
+5bf320031165972a676acb40,ISIC_0046351,Globules / Clods : Cobblestone pattern,4,benign,nevus
+5bf320031165972a676acb59,ISIC_0046353,Vessels : Comma,4,benign,nevus
+5bf320091165972a676acbfa,ISIC_0046364,Globules / Clods : Regular,4,benign,nevus
+5bf3201b1165972a676acd6d,ISIC_0046394,Regression structures : Peppering / Granularity,4,malignant,melanoma
+5bf320201165972a676acdf7,ISIC_0046405,Globules / Clods : Rim of brown globules,4,malignant,melanoma
+5bf320231165972a676ace3b,ISIC_0046410,Lines : Branched streaks,4,benign,nevus
+5bf320261165972a676ace71,ISIC_0046414,Shiny white structures : Shiny white streaks,4,benign,dermatofibroma
+5bf320361165972a676ad097,ISIC_0046458,Structureless : Blue-whitish veil,4,malignant,melanoma
+5bf320371165972a676ad0c7,ISIC_0046462,Globules / Clods : Cobblestone pattern,4,benign,nevus
+5bf3203e1165972a676ad277,ISIC_0046499,Network : Delicate Pigment Network / Reticulation,4,benign,nevus
+5bf320431165972a676ad3b0,ISIC_0046526,Structureless : Milky red areas,4,malignant,melanoma
+5bf320461165972a676ad42d,ISIC_0046537,Globules / Clods : Milky red,4,benign,nevus
+5bf3204e1165972a676ad5c4,ISIC_0046571,Vessels : Dotted,4,malignant,melanoma
+5bf3204f1165972a676ad5cf,ISIC_0046572,Pattern : Homogeneous : NOS,4,benign,nevus
+5bf320521165972a676ad6ac,ISIC_0046591,Pattern : Starburst,4,benign,nevus
+5bf320531165972a676ad6c2,ISIC_0046593,Vessels : Linear irregular,4,benign,nevus
+5bf320551165972a676ad6fc,ISIC_0046598,Structureless : Structureless brown (tan),4,malignant,melanoma
+5bf320571165972a676ad767,ISIC_0046607,Structureless : Blotch regular,4,benign,nevus
+5bf320591165972a676ad812,ISIC_0046622,Network : Broadened pigment network / Reticulation,4,malignant,melanoma
+5bf3205d1165972a676ad90d,ISIC_0046643,Vessels : Linear irregular,4,benign,nevus
+5bf3205d1165972a676ad918,ISIC_0046644,Network : Negative pigment network,4,benign,nevus
+5bf320621165972a676ada03,ISIC_0046662,Vessels : Corkscrew,4,malignant,melanoma
+5bf320651165972a676ada75,ISIC_0046672,Regression structures : Scarlike depigmentation,4,malignant,melanoma
+5bf320651165972a676ada80,ISIC_0046673,Lines : Branched streaks,4,benign,nevus
+5bf320661165972a676adab7,ISIC_0046678,Globules / Clods : Irregular,4,benign,nevus
+5bf320671165972a676adad8,ISIC_0046681,Structureless : Structureless brown (tan),4,malignant,melanoma
+5bf320701165972a676adc3c,ISIC_0046712,Dots : Irregular,4,malignant,melanoma
+5bf320771165972a676adcf7,ISIC_0046729,Dots : Regular,4,benign,nevus
+5bf3207e1165972a676add9c,ISIC_0046744,Network : Typical pigment network / Reticulation,4,benign,nevus
+5bf320801165972a676ade23,ISIC_0046756,Lines : Radial streaming,4,benign,nevus
+5bf320841165972a676adef8,ISIC_0046773,Structureless : Blotch irregular,4,malignant,melanoma
+5bf3208a1165972a676ae020,ISIC_0046797,Vessels : Comma,4,benign,nevus
+5bf320a21165972a676ae39a,ISIC_0046866,Dots : Regular,4,benign,nevus
+5bf320a41165972a676ae3d5,ISIC_0046871,Network : Typical pigment network / Reticulation,4,benign,nevus
+5bf320ad1165972a676ae46b,ISIC_0046882,Regression structures : Scarlike depigmentation,4,malignant,melanoma
+5bf320b11165972a676ae4da,ISIC_0046890,Vessels : Polymorphous,4,malignant,melanoma
+5bf320c41165972a676ae69c,ISIC_0046922,Globules / Clods : Rim of brown globules,4,benign,nevus
+5bf320ca1165972a676ae790,ISIC_0046943,Network : Broadened pigment network / Reticulation,4,benign,nevus
+5bf320d31165972a676ae844,ISIC_0046955,Globules / Clods : Irregular,4,malignant,melanoma
+5bf320d41165972a676ae84f,ISIC_0046956,Structureless : Milky red areas,4,malignant,melanoma
+5bf320ea1165972a676aea3c,ISIC_0046993,Globules / Clods : Regular,4,malignant,melanoma
+5bf320ed1165972a676aeab6,ISIC_0047003,Lines : Pseudopods,4,malignant,melanoma
+5bf320f41165972a676aebb0,ISIC_0047024,Lines : Angulated lines / Polygons / Zig-zag pattern,4,malignant,melanoma
+58b0a361d831137d0a38836c,ISIC_0016094,Network : Atypical pigment network / Reticulation,4,malignant,melanoma
+58b0a36ad831137d0a38841a,ISIC_0016112,Lines : Angulated lines / Polygons / Zig-zag pattern,4,malignant,melanoma
+58b0a370d831137d0a38847d,ISIC_0016123,Regression structures : Peppering / Granularity,4,malignant,melanoma
+58b0a372d831137d0a3884aa,ISIC_0016128,Structureless : Blue-whitish veil,4,malignant,melanoma
+58b0a375d831137d0a3884d7,ISIC_0016133,Structureless : Blotch irregular,4,malignant,melanoma
+58b0a377d831137d0a388519,ISIC_0016139,Vessels : Polymorphous,4,malignant,melanoma
+58b0a379d831137d0a38853d,ISIC_0016143,Lines : Pseudopods,4,benign,nevus
+58b0a37cd831137d0a38857c,ISIC_0016150,Structureless : Blotch regular,4,benign,nevus
+58b0a382d831137d0a3885df,ISIC_0016161,Globules / Clods : Milky red,4,malignant,melanoma
+59e509ccd831136981ee6459,ISIC_0021052,Network : Delicate Pigment Network / Reticulation,4,benign,nevus
+59e50ad1d831136981ee844f,ISIC_0021894,Pattern : Homogeneous : NOS,4,benign,nevus
+59e50d2dd831136981eec519,ISIC_0023588,Vessels : Corkscrew,4,malignant,melanoma metastasis
+59e50d31d831136981eec54d,ISIC_0023593,Dots : Irregular,4,malignant,melanoma
+59e50d71d831136981eecd89,ISIC_0023811,Lines : Radial streaming,4,malignant,melanoma
