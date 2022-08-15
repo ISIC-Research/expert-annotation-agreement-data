@@ -1,3 +1,7 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# downloaded images (collection)
 images/*JPG
 images/attribution.txt
 images/metadata.csv
